@@ -97,4 +97,3 @@ VPROLD（Vector Permute Doubleword）指令用于向量中的双字置换，可�
 | GFNI优化 | 对于GCM模式额外提升2-3x | 需要硬件支持和C扩展 |
 
 注：实际性能提升可能因硬件环境和数据规模而有所不同。
-
